@@ -33,7 +33,7 @@ SQLite (or PostgreSQL)
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/kafka-news-pipeline.git
+git clone https://github.com/ds28-ops/kafka-news-pipeline.git
 cd kafka-news-pipeline
 ```
 
